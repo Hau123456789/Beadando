@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<link type="text/css" rel="stylesheet"
+		href="kep.css" />
+		<title> Ruben életrajz</title>
+		<meta charset="utf-8" />
+		
+</head>
+<body>
+	<div>
+		
+	</div>
+
+		<h1 align="center"><font color=red> Kánya Ruben </font></h1>
+		 <hr size="3" align="center" width="1500">
+		 
+	<h2><font color=#898134> Kevert </font></h2>
+		<p>Anyukámy: Biro Erika<br />Apukám: Kánya János <br />Testvérem: Nincs <br />Érden lakoma Cinek utca 50-ben 18 éve.<br />Háziállatok: 
+	<ul><li>Zeusz: kutya 
+	<li>Yoyo: macska 
+	</ul> </p>
+
+	<h3><font color=#898134> Tanulmányaim </font></h3>
+	<p>Bálint Márton Általános Iskola és Középiskola 8 éven keresztrül ahol folyamatos tanulás mellett értem el szép eredményeket majd ott 2 éven keresztül tanultam Free Pascal programnyelvet és ezzel szerettem meg a programozást és mentem egy olyan suliba ahol tudom ezt jól tanitják.</p>
+	<p>Régi iskolám oldala:<p>
+	<a href="https://balintsuli.hu/">Bálint Márton</a>
+
+<h3><font color=#898134> Továbbtanulási szándék </font></h3>
+<p>Főiskola vagy egyetem a cél ami eleg nagy erőfeszitést kell kitennem de mindennek megvan az ára igy meg is teszek érte minden <br />Pár suli ahová szivesen be szeretnék jutni:</p>
+<ol>
+<li>Óbudai Egyetem, Neumann János Informatikai Kar
+<li>Budapesti Corvinus Egyetem Informatikai Szolgáltató Központ
+<li>ELTE informatikai kar
+</ol>
+<a href="http://uni-obuda.hu/files/imagecache/org/org/43/neumann-janos-informatikai-kar.jpg"><img src="http://nik.uni-obuda.hu/files/styles/cover/public/images/2012/379.jpg?itok=THo29BX_"/></a>
+<hr size="3" align="left" width="620">
+
+<h3><iframe width="620" height="480" src="https://www.youtube.com/embed/5ynGpsRtNHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></h3>
+
+
